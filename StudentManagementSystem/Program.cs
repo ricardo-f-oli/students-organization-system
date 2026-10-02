@@ -34,6 +34,7 @@ internal class Program
             Console.WriteLine("7. Insert Marks and Calculate GPA");
             Console.WriteLine("8. View courses");
             Console.WriteLine("9. View departments");
+            Console.WriteLine("10. Ver estudantes da Faculdade");
             Console.WriteLine("0. Exit");
             Console.WriteLine(new string('=', Equal * 3));
             Console.Write("Enter your choice: ");
